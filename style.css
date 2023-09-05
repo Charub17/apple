@@ -1,0 +1,198 @@
+* {
+    overflow-x: hidden;
+
+}
+
+body {
+    padding: 0px;
+    margin: 0px;
+    background-color: #f5f5f5;
+}
+
+.title-bar{
+    color: black;
+}
+
+.con2{
+    width: 100%;
+    background-color: white;
+}
+.con2 p{
+    background-color: white;
+}
+
+.con2 p:last-child{
+
+color: rgb(60, 60, 207);
+}
+.heading1{
+    font-size: 25px;
+    height: 200px;
+    width:60%;
+    padding: 50px 0px;
+    color: rgb(104, 95, 95);
+}
+.store{
+    color: black;
+}
+
+.side-images{
+    height: 150px;
+    width: 300px;
+}
+.blue{
+    color: rgb(60, 60, 207);
+}
+.cont4{
+    width: 85%;
+}
+
+.logo{
+     height: 100px;
+     width: 150px;
+     object-fit: cover;
+}
+
+.img1{
+  object-fit:scale-down;
+  object-position: center;
+}
+.image-title{
+    width: 85%;
+
+}
+
+.head2{
+    font-size: 15px;
+    height: 100px;
+    width:45%;
+    color: rgb(104, 95, 95);
+    padding: 50px 130px;
+}
+.latest{
+    color: black;
+    padding-left: 18px;
+}
+.cont5{
+    display: flex;
+    gap: 30px;
+    
+}
+
+.box1{
+    height: 600px;
+    width: 500px;
+    background-color: white;
+    border-radius: 12px;
+    border: 1px solid none;
+    box-shadow: -10px -10px 5px 1px #ebebeb
+    
+}
+.box2{
+    height: 600px;
+    width: 500px;
+    background-color: white;
+    border-radius: 12px;
+    box-shadow: -10px -10px 5px 1px #ebebeb
+}
+.box3{
+    height: 600px;
+    width: 500px;
+    background-color: black;
+    border-radius: 12px;
+    box-shadow: -10px -10px 5px 1px #ebebeb
+}
+
+.box1 p:first-child{
+    color: rgb(117, 112, 112);
+}
+.box2 p:first-child{
+    color: rgb(117, 112, 112);
+}
+
+.box-p{
+    background-color: white;
+    padding: 0px 40px;
+}
+.box-h1{
+    background-color: white;
+    padding: 0px 40px;
+}
+.box-p-1{
+    background-color: black;
+    padding: 0px 40px;
+    color: white;
+}
+.box-h1-1{
+    background-color: black;
+    padding: 0px 40px;
+    color: white;
+}
+.laptop{
+    height: 280px;
+    width: 300px;
+    object-fit:fill;
+  margin: 30Px;
+}
+.laptop2{
+    height: 280px;
+    width: 300px;
+    object-fit: fill;
+  margin-top: 66Px;
+  margin-left: 30px;
+}
+.iphonepro{
+    height: 250px;
+    width: 230px;
+    object-fit: fill;
+  margin: 66px;
+  margin-top: 70px;
+}
+.links{
+ padding-left: 145px;
+}
+.cont6{
+    width: 350px;
+    display: flex;
+    
+}
+.quick-box{
+    padding: 8px;
+    background-color: #bbb5b580;
+    border-radius: 12px;
+}
+
+.para{
+    width: 1150px;
+    color: #9c9595;
+    margin: 40px 145px;
+    padding-bottom: 40px;
+    border-bottom: 1px solid #bbb5b580;
+}
+.Apple{
+    padding-left: 145px; 
+    color: #9c9595;
+}
+.cont7{
+    margin: 40px 125px;
+    border-bottom: 1px solid #bbb5b580;
+}
+footer{
+    width: auto;
+    color: #9c9595;
+    margin: 40px 125px;
+}
+
+
+.flex-between-column{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  
+}
+.flex-between{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+   justify-content: space-between;
+}
